@@ -17,6 +17,11 @@ This also relates to further expanding long term accommodation (until vaccines h
 
 Further relates to preparing workforce currently told to "stay at home" for vital assistance to less developed places with much worse crisis.
 
+This repo is only for work on above.
+
+Here is an extensive [global list of open source projects related to covid-19](http://open-source-covid-19.weileizeng.com)
+
+
 ## Background Reading
 
 Read the following links carefully first:
