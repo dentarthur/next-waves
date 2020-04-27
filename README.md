@@ -21,6 +21,33 @@ This repo is only for work on above.
 
 Here is an extensive [global list of open source projects related to covid-19](http://open-source-covid-19.weileizeng.com)
 
+### Update 2020-04-27
+
+Above "immediate focus" currently deferred because:
+
+1. Only relevant for a "reasonable worst case" in which peak demand and/or ramp rate for Quarantine accomodation exceeds easily available supply from empty hotels and student housing.
+
+2. Announcements re "medi-hotels" imply anything much less than item 1 won't need any proposal from here.
+https://tas.ama.com.au/tas/home-isolation-of-positive-cases
+https://www.brisbanetimes.com.au/politics/federal/medi-hotels-instead-of-home-isolation-for-mild-covid-19-patients-20200413-p54jfc.html?ref=rss&utm_medium=rss&utm_source=rss_feed
+
+3. There is an Imperial College report on planning hospital capacity that will make it easier to plan for ramp up of Quarantine accommodation too:
+
+https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-15-hospital-capacity/
+
+4. Current expectations of successful suppression make proposals  concerning a "reasonable worst case" pointless without first demonstrating plausibility of that scenario.
+
+Meanwhile I am studying and hope to add some notes on related topics:
+
+1. Current expectactions based on "nowcasting" from Doherty Institute eg update linked from here:
+https://health.govcms.gov.au/resources/publications/update-modelling-the-current-impact-of-covid-19-in-australia
+https://www.pm.gov.au/media/press-conference-australian-parliament-house-act-240420
+https://health.govcms.gov.au/news/australian-health-protection-principal-committee-ahppc-coronavirus-covid-19-statement-on-16-april-2020
+https://www.covid19data.com.au/transmission-sources
+https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm
+
+2. The closely related topics of reopening schools, testing,tracing and transmission.
+Some initial references are in [Schools and TTT](Schools_and_TTT.md)
 
 ## Background Reading
 
